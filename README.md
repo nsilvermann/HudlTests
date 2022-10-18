@@ -30,4 +30,5 @@ The format should be:
 
 ### Running:
 From the project root directory 
+
 python3 main.py
