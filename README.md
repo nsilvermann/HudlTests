@@ -29,4 +29,5 @@ The format should be:
     Password: replace_with_your_password
 
 ### Running:
+From the project root directory 
 python3 main.py
